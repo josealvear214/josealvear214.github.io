@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <?php 
  // Assign the value "Hello!" to the variable "greeting" 
  $greeting = "Hello!"; 
